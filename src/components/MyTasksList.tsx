@@ -19,7 +19,7 @@ export function MyTasksList({ tasks, onLongPress, onPress, darkModeState }: MyTa
 function FlatListHeaderComponent() {
   return (
     <View>
-      <Text style={styles.header}>Minhas tasks</Text>
+      <Text style={styles.header}>My tasks</Text>
     </View>
   )
 }

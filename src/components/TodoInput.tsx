@@ -22,7 +22,7 @@ export function TodoInput({ addTask, darkModeState }: TodoInputProps) {
     <View style={[styles.inputContainer, Platform.OS === 'ios' ? styles.inputIOSShadow : styles.inputAndroidShadow]}>
       <TextInput 
         style={styles.input} 
-        placeholder="Adicionar novo todo..."
+        placeholder="Adicionar novo to.do..."
         returnKeyType="send"
         value={task}
         onChangeText={setTask}
