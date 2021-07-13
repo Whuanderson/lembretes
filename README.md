@@ -6,8 +6,8 @@
     </a>
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
   </div>
-
 </h1>
+
   <p align="center">
    <img alt="TO.DO" title="TODO" src="https://user-images.githubusercontent.com/83825566/125495796-d6b020cc-8355-4fcf-b876-b62fe77e77cf.gif" width="200" height="400" />
   </p>
@@ -61,12 +61,12 @@ $ Yarn start
 # Depois rode em um emulador.
 $ Yarn run android
 ```
-# :closed_book: License
+# :closed_book: Licença
 
-Lançado em 2021 :closed_book: Licencia
+Lançado em 2021 :closed_book: Licença
 
 Feito por [Whuanderson Marinho](https://github.com/Whuanderson) 🚀.
-Esse projeto esta sobre [MIT license](./LICENSE).
+Esse projeto está sobre [MIT license](./LICENSE).
 
 Dê uma ⭐️ se esse projeto te ajudou!
 
