@@ -9,7 +9,7 @@
 
 </h1>
   <p align="center">
-   <img alt="PlantManager" title="PlantManager" src="https://user-images.githubusercontent.com/83825566/125478612-0b949991-362b-4697-abf1-6704a5b56777.gif" />
+   <img alt="PlantManager" title="PlantManager" src="https://user-images.githubusercontent.com/83825566/125495796-d6b020cc-8355-4fcf-b876-b62fe77e77cf.gif" width="200" height="400" />
   </p>
 
  <p align="center">
