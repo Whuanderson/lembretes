@@ -12,61 +12,55 @@
    <img alt="TO.DO" title="TODO" src="https://user-images.githubusercontent.com/83825566/125495796-d6b020cc-8355-4fcf-b876-b62fe77e77cf.gif" width="200" height="400" />
   </p>
 
- <p align="center">
-:rocket: Projeto criado para ajudar as pessoas a se lembrarem de tarefas. Feito no Ignite da @Rocketseat
- </p>
- 
-<div align="center">
-  <sub>O Projeto. Feito por:
-    <a href="https://github.com/Whuanderson">Whuanderson Marinho</a>
-  </sub>
-</div>
+ > Projeto criado durante o **Ignite** da [Rocketseat](https://www.rocketseat.com.br/) para ajudar as pessoas a se lembrarem de suas tarefas diárias.
 
-# 🚀 Tecnologias
+---
 
-  - [Node.js](https://nodejs.org/en/)
-  - [Expo](https://expo.io/)
-  - [React Native](https://reactnative.dev/)
-  - [TypeScript](https://www.typescriptlang.org/)
-  
-  ## 💻 Começando
+## 🚀 Tecnologias
 
-### Requerimentos
+- [Node.js](https://nodejs.org/)
+- [Expo](https://expo.dev/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-- [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
-- [Yarn](https://classic.yarnpkg.com/) or [NPM](https://www.npmjs.com/)
+## 💻 Começando
 
-### 📱  Instalando e executando o projeto
+### Pré‑requisitos
 
-*Clone o projeto e acesse a pasta*
+- Node.js
+- Expo CLI (`npm install -g expo-cli`)
+- Yarn ou npm
+
+### Instalação e execução
 
 ```bash
-$ git clone https://github.com/Whuanderson/lembretes
-$ cd lembretes
+# clone o repositório
+git clone https://github.com/Whuanderson/lembretes
+cd lembretes
+
+# instale as dependências
+yarn        # ou npm install
 ```
-*Siga os passos abaixo:*
 
 ```bash
-# Instale as dependências
-$ yarn install
-
-
-# Execute em um terminal :)
-$ Yarn start
-
-
-# Muito bem, TO.DO é iniciado!
-
-# Depois rode em um emulador.
-$ Yarn run android
+# inicialize o servidor de desenvolvimento
+yarn start  # ou expo start
 ```
-# :closed_book: Licença
 
-Lançado em 2021 :closed_book: Licença
+#### Android / iOS / Web
 
-Feito por [Whuanderson Marinho](https://github.com/Whuanderson) 🚀.
-Esse projeto está sobre [MIT license](./LICENSE).
+- **Android**: `yarn android`  
+- **iOS**: `yarn ios` (macOS)  
+- **Web**: `yarn web`  
 
-Dê uma ⭐️ se esse projeto te ajudou!
+---
+
+## 📄 Licença
+
+Distribuído sob licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) para detalhes.
+
+<p align="center">
+  Feito com 🗒️ por <a href="https://github.com/Whuanderson">Whuanderson Marinho</a> — se este projeto foi útil, deixe uma ⭐️!
+</p>
+
 
